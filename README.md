@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeividasJackus&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=DeividasJackus&theme=radical&mode=daily&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://github.com/DeividasJackus) -->
+
+[![GitHub Streak: Current Daily Streak](https://streak-stats.demolab.com?user=DeividasJackus&mode=daily&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=true&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=160&card_height=160)](https://github.com/DeividasJackus)
+[![GitHub Streak: Longest Daily Streak](https://streak-stats.demolab.com?user=DeividasJackus&mode=daily&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=false&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=160&card_height=160)](https://github.com/DeividasJackus)
+[![GitHub Streak: Current Weekly Streak](https://streak-stats.demolab.com?user=DeividasJackus&mode=weekly&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=true&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=160&card_height=160)](https://github.com/DeividasJackus)
+[![GitHub Streak: Longest Weekly Streak](https://streak-stats.demolab.com?user=DeividasJackus&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=false&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=160&card_height=160)](https://github.com/DeividasJackus)
+[![GitHub Streak: Total Contributions](https://streak-stats.demolab.com?user=DeividasJackus&hide_total_contributions=false&hide_current_streak=true&hide_longest_streak=true&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=160&card_height=160)](https://github.com/DeividasJackus)
