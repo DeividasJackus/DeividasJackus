@@ -1,4 +1,4 @@
-### Exponential is Now 👋
+### Product & Engineering Leadership • Strategic AI Transformation
 
 <!--
 **DeividasJackus/DeividasJackus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
